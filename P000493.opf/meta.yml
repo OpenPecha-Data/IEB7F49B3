@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016947
   title: གསུང་འབུམ། པདྨ་ལུང་རྟོགས་རྒྱ་མཚོ
-  volume: ''
+  volume:
+    2bfb0070dcd14af3a74002bd223f1863:
+      image_group_id: I01JW198
+      title: Volume 1 of gsung 'bum/_pad+ma lung rtogs rgya mtsho
+      volume_number: 1
+      total_pages: 534
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། པདྨ་ལུང་རྟོགས་རྒྱ་མཚོ
+  author: ''
+  sku: P000493
+  cover: cover.jpg
+  layers:
+  - pagination
